@@ -5,6 +5,7 @@
     "home_page_url": "https://sharelab.us",
     "feed_url": "https://sharelab.us/feed.json",
     "user_comment": "",
+    "icon": "https://sharelab.us/media/website/ShareLabLogoWhite.png",
     "author": {
         "name": "Stephanie Wilson"
     },
@@ -14,14 +15,14 @@
             "url": "https://sharelab.us/welcome-to-the-share-lab.html",
             "title": "Welcome to the SHARE Lab!",
             "summary": "Here at the SHARE lab, we strive to understand how loved ones shape our well-being and physical health—from the ability to stand and walk with ease, down to the generation of new immune cells. Using observational methods, we track partners’ social dynamics and physiological patterns&hellip;",
-            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://sharelab.us/media/posts/15/SHARE-Lab-Logo-2.png\" height=\"250\" width=\"408\" alt=\"\"  sizes=\"100vw\" srcset=\"https://sharelab.us/media/posts/15/responsive/SHARE-Lab-Logo-2-xs.png 300w ,https://sharelab.us/media/posts/15/responsive/SHARE-Lab-Logo-2-sm.png 480w ,https://sharelab.us/media/posts/15/responsive/SHARE-Lab-Logo-2-md.png 768w ,https://sharelab.us/media/posts/15/responsive/SHARE-Lab-Logo-2-lg.png 1024w ,https://sharelab.us/media/posts/15/responsive/SHARE-Lab-Logo-2-xl.png 1360w ,https://sharelab.us/media/posts/15/responsive/SHARE-Lab-Logo-2-2xl.png 1600w\">\n      \n    </figure>\n\n  <p>\n    Here at the SHARE lab, we strive to understand how loved ones shape our well-being and physical health—from the ability to stand and walk with ease, down to the generation of new immune cells. Using observational methods, we track partners’ social dynamics and physiological patterns in the lab and everyday life to understand the ways in which close relationships may serve as a boon or a liability to our health. We also study how relationship dynamics may evolve as we age, and how social-emotional and biological changes across adulthood may amplify or dampen the effects of our social lives on the health of our aging bodies.<br><br>Please explore our website to find out more about who we are, what we are currently working on, and how you can be involved.<br>\n  </p>",
+            "content_html": "\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://sharelab.us/media/posts/15/SHARE-Lab-Logo-2.png\" height=\"250\" width=\"408\" alt=\"\"  sizes=\"100vw\" srcset=\"https://sharelab.us/media/posts/15/responsive/SHARE-Lab-Logo-2-xs.png 300w ,https://sharelab.us/media/posts/15/responsive/SHARE-Lab-Logo-2-sm.png 480w ,https://sharelab.us/media/posts/15/responsive/SHARE-Lab-Logo-2-md.png 768w ,https://sharelab.us/media/posts/15/responsive/SHARE-Lab-Logo-2-lg.png 1024w ,https://sharelab.us/media/posts/15/responsive/SHARE-Lab-Logo-2-xl.png 1360w ,https://sharelab.us/media/posts/15/responsive/SHARE-Lab-Logo-2-2xl.png 1600w\">\n      \n    </figure>\n\n  <p>\n    Here at the SHARE lab, we strive to understand how loved ones shape our well-being and physical health—from the ability to stand and walk with ease, down to the generation of new immune cells. Using observational methods, we track partners’ social dynamics and physiological patterns in the lab and everyday life to understand the ways in which close relationships may serve as a boon or a liability to our health. We also study how relationship dynamics may evolve as we age, and how social-emotional and biological changes across adulthood may amplify or dampen the effects of our social lives on the health of our aging bodies.<br><br>Please explore our website to find out more about who we are, what we are currently working on, and how you can be involved.<br>\n  </p>\n<div><video loading=\"lazy\" autoplay loop playsinline width=\"1920\" height=\"1280\" src=\"/media/files/HeroVideo.mp4\"></video></div>",
             "author": {
                 "name": "Stephanie Wilson"
             },
             "tags": [
             ],
             "date_published": "2024-06-15T13:28:26-05:00",
-            "date_modified": "2024-06-15T13:31:22-05:00"
+            "date_modified": "2024-06-15T14:02:40-05:00"
         },
         {
             "id": "https://sharelab.us/lab-mascots.html",
