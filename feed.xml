@@ -3,7 +3,7 @@
     <title>ShareLab</title>
     <link href="https://sharelab.us/feed.xml" rel="self" />
     <link href="https://sharelab.us" />
-    <updated>2024-06-15T14:02:40-05:00</updated>
+    <updated>2024-06-15T14:09:35-05:00</updated>
     <author>
         <name>Stephanie Wilson</name>
     </author>
@@ -32,9 +32,13 @@
     </figure>
 
   <p>
-    Here at the SHARE lab, we strive to understand how loved ones shape our well-being and physical health—from the ability to stand and walk with ease, down to the generation of new immune cells. Using observational methods, we track partners’ social dynamics and physiological patterns in the lab and everyday life to understand the ways in which close relationships may serve as a boon or a liability to our health. We also study how relationship dynamics may evolve as we age, and how social-emotional and biological changes across adulthood may amplify or dampen the effects of our social lives on the health of our aging bodies.<br><br>Please explore our website to find out more about who we are, what we are currently working on, and how you can be involved.<br>
+    Here at the SHARE lab, we strive to understand how loved ones shape our well-being and physical health—from the ability to stand and walk with ease, down to the generation of new immune cells. Using observational methods, we track partners’ social dynamics and physiological patterns in the lab and everyday life to understand the ways in which close relationships may serve as a boon or a liability to our health. We also study how relationship dynamics may evolve as we age, and how social-emotional and biological changes across adulthood may amplify or dampen the effects of our social lives on the health of our aging bodies.<br><br>Please explore our website to find out more about who we are, what we are currently working on, and how you can be involved.
   </p>
-<div><video loading="lazy" autoplay loop playsinline width="1920" height="1280" src="/media/files/HeroVideo.mp4"></video></div>
+
+  <p>
+    
+  </p>
+<div><video loading="lazy" autoplay loop playsinline style="display: block; margin: auto; aspect-ratio: 1920/1280; width: 100%; max-width: 1000px;" src="/media/files/HeroVideo.mp4"></video></div>
             ]]>
         </content>
     </entry>
